@@ -1,2 +1,2 @@
 # python-docker
-A container with python using Docker
+An image with python using Docker. For learning how to use Docker.
